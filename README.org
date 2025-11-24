@@ -4,6 +4,6 @@ A standard interface to the various package lock implementations of Common Lisp.
 
 |---------+-----------------------------------------------------------|
 | source  | git:https://github.com/yitzchak/trivial-package-locks.git |
-| commit  | ca2e2b1                                                   |
+| commit  | 4eae62c                                                   |
 | systems | trivial-package-locks                                     |
 |---------+-----------------------------------------------------------|
